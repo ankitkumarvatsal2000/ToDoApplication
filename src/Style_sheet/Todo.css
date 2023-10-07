@@ -1,0 +1,88 @@
+.container{
+    width: 800px;
+    margin: auto;
+    background-color: rgb(39, 33, 33);
+    border-radius: 10px;
+   
+    }
+.heading{
+    text-align: center;
+    font-size: 50px;
+    color: wheat
+    ;
+}
+.handle{
+    text-align: left;
+}
+.inp{
+    width: 85%;
+    height: 40px;
+    font-size: 25px;
+    margin-left: 5px;
+    border-radius: 5px;
+
+}
+.btn{
+    height: 40px; 
+    width: 80px;
+    color: white;
+    background-color: green;
+    padding-top: 7px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 5px;
+    font-size: 15px;
+}
+.btn-1{
+    height: 40px; 
+    width: 80px;
+    color: white;
+    background-color: red;
+    padding-top: 7px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 5px;
+    font-size: 15px;
+}
+.items{
+    color: white;
+    box-shadow: 0px 0px 5px white;
+    width: 70%;
+    height: 40px;
+    margin-left: 10px;
+    padding-left: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+   overflow: hidden;
+   
+    
+}
+.all{
+    display: flex;
+    
+    
+   
+}
+.remove-all{
+    background-color: red;
+    height: 40px;
+    width: 22%;
+    margin-left: 63%;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.para{
+    color: yellow;
+    font-size: 30px;
+    text-align: center;
+}
+.Search{
+    width: 20%;
+    margin-left: 75%;
+    height: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+
