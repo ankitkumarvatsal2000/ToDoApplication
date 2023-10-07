@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React, { useState } from 'react'
 import '../Style_sheet/Todo.css';
 
 const TO_DO = () => {
