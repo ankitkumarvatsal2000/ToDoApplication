@@ -1,11 +1,11 @@
 
-import To_Do from "./Components/To_Do";
+import TO_DO from "./Components/TO_DO";
 function App() {
   return (
     <div >
-    <To_Do />
+    <TO_DO />
     </div>
   );
 }
 
-export default App;
+export default App; 

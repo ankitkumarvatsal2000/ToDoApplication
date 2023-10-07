@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import '../Style_sheet/Todo.css';
 
-const To_Do = () => {
+const TO_DO = () => {
   const [activity, setActivity] = useState("");
   // console.log(activity)
   const [listData, setlistData] = useState([]);
@@ -131,4 +131,4 @@ const To_Do = () => {
   )
 }
 
-export default To_Do;
+export default TO_DO;
